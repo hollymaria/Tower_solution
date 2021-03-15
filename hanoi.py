@@ -1,6 +1,5 @@
 # Python function to solve tower of hanoi
-# I have moved the disks onto other rods, without the small disk being under a big disk
-#  
+# I have moved the disks onto other rods, without the small disk being under a big disk 
 
 def TowerOfHanoi(n , source, destination, auxiliary): 
 	if n==1: 
